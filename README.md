@@ -26,6 +26,25 @@ The data is originally from the Kaggle challenge: https://www.kaggle.com/dataset
 The dataset has been modified to correct faulty timestamp and rename columns.
 
 _______________________________________________________________________
+## Attendance on the day
+_Venue for in person attendees:_
+Room C229/230, Department of Chemical Engineering, Stellenbosch University
+
+_Link for online attendees:_
+[Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg1N2RlZmQtYmMzMC00NGE5LWFmNjctNDQ3ZTAwNTQxYTc4%40thread.v2/0?context=%7b%22Tid%22%3a%22a6fa3b03-0a3c-4258-8433-a120dffcd348%22%2c%22Oid%22%3a%226d166535-09ed-44dc-a121-8bcc07886777%22%7d)
+
+## Agenda
+| Time          | Activity|
+| :---          | :--- |
+| 8.30 - 9.00   | Coffee and tea for in person attendees |
+| 9.00 - 9.30   | Workshop introduction, assist with setup as necessary |
+| 9.30 - 10.30  | *Topic 1*: The nature of data and pre-processing |
+| 10.30 - 10.45 | Break |
+| 10.45 - 12.15 | *Topic 2*: Dimensionality reduction and data visualisation |
+| 12.15 - 12.45 | Lunch break |
+| 12.45 - 14.15 | *Topic 3*: Clustering |
+| 14.15 - 14.30 | Break |
+| 14.30 - 16.00 | *Topic 4*: Model interpretation and wrap-up |
 
 ## Topics covered during the workshop
 ### Nature of data / Pre-processing / Time series
