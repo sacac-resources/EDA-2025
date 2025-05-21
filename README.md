@@ -14,15 +14,13 @@ The `clone-repo` file will guide you through the process of cloning the repo to 
 
 ### Checking your setup in Google Colab
 After you have cloned the repo to your Google Drive, we suggest you run the `test-setup` notebook to make sure everything is running correctly. 
-1. Go to your [Google Drive](https://drive.google.com/) and navigate to the SACAC-EDA-2025 folder you've just cloned.
+1. Go to your [Google Drive](https://drive.google.com/) and navigate to the EDA-2025 folder you've just cloned.
 2. Go to `/examples` and open the `test_setup` notebook
 3. Make sure to edit the path in the first cell of the notebook, as explained in the instructions.
 4. You should be able to run all cells in the notebook
 
 ### Data used during the EDA workshop
-The data used during the workshop is not hosted on GitHub. Please see the `README.md` file in the `\data` folder of this repository for information on loading the necessary data.
-
-_Once you've loaded the data to your Google Drive, you are ready for the workshop!_
+The data used during the workshop is not hosted on GitHub. The data is available on the SACAC Google Drive folder [here](https://drive.google.com/drive/folders/1YcMv9eZFhopJvv1TjTTH029e5ufIw8c_?usp=drive_link) and you may download it if you prefer. However, the workshop examples will use `pandas` to load the data directly from the Google Drive folder. A dictionary is created in the beginning of each sample listing the required URLs. No further setup is required from your side - if the `test_setup` notebook runs correctly, then the data is ready for use.
 
 _______________________________________________________________________
 
