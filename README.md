@@ -22,6 +22,9 @@ After you have cloned the repo to your Google Drive, we suggest you run the `tes
 ### Data used during the EDA workshop
 The data used during the workshop is not hosted on GitHub. The data is available on the SACAC Google Drive folder [here](https://drive.google.com/drive/folders/1YcMv9eZFhopJvv1TjTTH029e5ufIw8c_?usp=drive_link) and you may download it if you prefer. However, the workshop examples will use `pandas` to load the data directly from the Google Drive folder. A dictionary is created in the beginning of each sample listing the required URLs. No further setup is required from your side - if the `test_setup` notebook runs correctly, then the data is ready for use.
 
+The data is originally from Kaggle challenge: https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process.
+The dataset has been modified to correct faulty timestamp and rename columns.
+
 _______________________________________________________________________
 
 ## Topics covered during the workshop
