@@ -1,0 +1,5 @@
+# Ignore these files
+*.csv
+*.parq
+*.zip
+

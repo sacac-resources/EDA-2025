@@ -1,0 +1,12 @@
+# Requirements (conda) for this repository
+- python=3.7
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
+- jupyter
+- ipywidgets
+- keras
+- tensorflow 2.0
+- umap
