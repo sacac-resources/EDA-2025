@@ -1,6 +1,8 @@
 # SACAC Exploratory Data Analysis workshop
 Repository to host the SACAC Exploratory Data Analysis workshop files (23 May 2025)
 
+We value your feedback! Please complete the [workshop feedback form](https://forms.office.com/r/saYvVH2eh7)
+
 ## Setup
 
 ### Cloning the repository to your Google Drive
