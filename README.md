@@ -63,17 +63,22 @@ Data visualisation: [![Open In Colab](https://colab.research.google.com/assets/c
 Data cleaning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/data_cleaning.ipynb)
 
 
-### Dimensionality reduction
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/dimensionality_reduction.ipynb) Dimensionality reduction 
 *	Principal component analysis
 *	Manifold learning and UMAP
 *	Autoencoders (bonus content)
 
-### Clustering
+Bonus content: autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/autoencoders.ipynb)
+
+
+
+
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/clustering.ipynb) Clustering
 *	K-means clustering
 *	DBSCAN
 *	Interpreting clustering
 
-### Model interpretation (w/ tree-based methods)
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/model_interpretation.ipynb) Model interpretation (w/ tree-based methods)
 *	Decision tree introduction
 *	Variable importance and partial dependence
 *	SHAP analysis (bonus content)
