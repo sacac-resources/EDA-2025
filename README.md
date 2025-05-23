@@ -54,6 +54,9 @@ _Link for online attendees:_
 * Data visualization
 * Data cleaning (removal, smoothing, replacement, downsampling)
 * Moving averages, exponential moving average
+Data ingest: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/data_ingest.ipynb)
+Data visualisation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/data_visualization.ipynb)
+Data cleaning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sacac-resources/EDA-2025/blob/main/examples/data_cleaning.ipynb)
 
 ### Dimensionality reduction
 *	Principal component analysis
